@@ -1,0 +1,14 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_driver: pdo_psql
+    database_host: localhost
+    database_port: null
+    database_name: todos
+    database_user: root
+    database_password: null
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: ba598e5bd87e55e4f2c0f691fa9c5b46910486d3
+    todos: [Buy Milk]
